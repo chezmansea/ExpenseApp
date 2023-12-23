@@ -4,7 +4,7 @@
 
      Overview
 
-        This project aims at keeping track of expenses.
+        This project aims at keeping track of expenses using Object Oriented Programming in Python.
 
 **To keep track of an expense, I have:**
 
